@@ -12,6 +12,6 @@ The Outcome: The AI learns the underlying mathematical pattern, allowing it to p
 
 Whether you're an educator, a developer, or just curious about AI in educational technology, check out the project and the Windows executable on GitHub.
 
-See the code, download the EXE, and explore the concept here: 🔗 GitHub Link: https://github.com/sabaLAB-dev/AI_Game
+🔗 GitHub Link: https://github.com/sabaLAB-dev/AI_Game
 
 #Python #KivyMD #AIinEducation #EdTech #PatternRecognition #DataScience #SabaLABDev
