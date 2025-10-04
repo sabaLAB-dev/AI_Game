@@ -4,7 +4,7 @@ Post Content
 
 I'm excited to share the release of my latest project: the Smart Multiplication AI Game! 🚀
 
-This isn't your typical calculator app. I  (with my parents help) built an educational tool using a Polynomial Regression algorithm to mimic how a small child with high pattern recognition skills would learn multiplication— only by observation and guesswork, not by knowing the rules beforehand like a calculator. It's a fantastic, interactive demonstration of Machine Learning principles in action.
+This isn't your typical calculator app. With my parents' help, I built an educational tool using a Polynomial Regression algorithm to mimic how a small child with high pattern recognition skills would learn multiplication— only by observation and guesswork, not by knowing the rules beforehand like a calculator. It's a fantastic, interactive demonstration of Machine Learning principles in action.
 
 The Goal: Train an AI model by providing examples (e.g., 2×3=6).
 
